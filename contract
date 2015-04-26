@@ -1,0 +1,4 @@
+message Request {
+    required string client_id = 1;
+    required string content = 2;
+}
